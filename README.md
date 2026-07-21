@@ -156,3 +156,4 @@ document.getElementById("contactForm").addEventListener("submit", function(event
   // Clear form
   this.reset();
 });
+<script src="scrpt.js"></script> <!-- Typo: should be "script.js" -->
